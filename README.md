@@ -4,7 +4,6 @@
 ## Prerequisites
 
 - Cài đặt Node.js
-- Bỏ token user vào file`users.txt`, mỗi token 1 dòng
 - Tốt bụng thì cho xin 1 ref: [https://t.ackinacki.com/?startapp=eyJyZWZlcnJlciI6ImdhcmZpZWxkMG8ifQ]
 - Kênh Acki: [https://t.me/ackinackinews]
 
@@ -12,15 +11,15 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/rowaxbtn/Animix-Auto-MultiThread-Bot
-    cd Animix-Auto-MultiThread-Bot
+    git clone https://github.com/rowaxbtn/ackinacki
+    cd ackinacki
     ```
 
 2. Install the required dependencies:
     ```sh
     npm install
     ```
-3. Input your user data in `users.txt` file, one user per line;
+3. Input your token in `users.txt` file, one user per line;
     ```sh
     nano users.txt
     ```
